@@ -1,0 +1,20 @@
+Wind.
+Earth.
+Fire.
+Water.
+
+Mud, Water, Earth.
+Tide, Wind, Water.
+Sand, Earth, Wind.
+Steam, Water, Fire.
+Lava, Earth, Fire.
+
+Metal, Lava, Water.
+Ceramic, Mud, Fire.
+Glass, Sand, Fire.
+
+GlassOfWater, Glass, Water.
+
+Boat, Metal, Tide, Steam.
+
+Avatar, Wind, Water, Earth, Fire.
