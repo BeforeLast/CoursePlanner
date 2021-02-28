@@ -1,5 +1,5 @@
 # COURSE PLANNER
-Program untuk merencanakan mata kuliah yang akan diambil menggunakan topological sort.
+Program untuk merencanakan mata kuliah yang akan diambil menggunakan algoritma decrease and conquer. Topological sort merupakan salah satu implementasi dari algoritma decrease and conquer. Pada permasalahan ini, akan dimanfaatkan topological sort untuk membentuk rencana kuliah.
 
 **Requirement:**
 * JRE 1.8.0
