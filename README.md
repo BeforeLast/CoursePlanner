@@ -1,10 +1,10 @@
-[COURSE PLANNER]
+# COURSE PLANNER
 Program untuk merencanakan mata kuliah yang akan diambil menggunakan topological sort.
 
-Requirement:
--JRE 1.8.0
+**Requirement:**
+* JRE 1.8.0
 
-How to run:
+**How to run:**
 1. Jalankan CoursePlanner_13519074.exe yang terletak pada folder bin
 2. Saat diminta input, silahkan masukan directory file txt yang berisi mata kuliah beserta prereqnya dalam format sebagai berikut:
   <kode_kuliah_1>, <kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>, <kode kuliah prasyarat - 3>.
@@ -12,7 +12,6 @@ How to run:
   <kode_kuliah_3>, <kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>, <kode kuliahprasyarat - 3>, <kode kuliah prasyarat - 4>.
   <kode_kuliah_4>.
 
-Author:
+**Author:**
 Christopher Chandrasaputra
 13519074
-"# CoursePlanner" 
